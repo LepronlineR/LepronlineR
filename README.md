@@ -135,6 +135,36 @@ A two player cooperative game where by sending items and controlling events in t
      <img src="images/friendsacrosstime.gif"/>
 </div>
 
+## [Astral Chart 🔫🚀](https://corppet.itch.io/astral-chart)
+
+<div align="center">
+     <img src="images/astralchart1.png"/>
+     <img src="images/astralchart2.png"/>
+     <img src="images/astralchartstart.gif"/>
+</div>
+
+A third person action adventure where the player is a mercenary ship taking missions through the galaxy. There are countless options of missions, dialogue, interactions between crewmates as well as a collage of weapons to choose from.
+
+<img src="images/astralchart1.gif"/>
+<img src="images/astralchart2.gif"/>
+
+## [Inflection 📖😮](https://corppet.itch.io/astral-chart)
+
+<div align="center">
+     <img src="images/inflectionstart.gif"/>
+</div>
+
+A first person mystery game where the player has to investigate a death of a person that he is convicted the murder of. The game utilizes microsoft voice detection in order for the player to ask questions to the witness and a machine learning algorithm in order to process the voice and determine the inflection of the voice, determining the resulting response. 
+
+In this instance, the player needs to find out the killer, and gets a small hint about what happened from a NPC about a key. The player finds the key and gives it to the NPC, which unlocks more of the mystery.
+
+<div align="center">
+     <img src="images/inflection0.gif"/>
+     <img src="images/inflection1.gif"/>
+     <img src="images/inflection2.gif"/>
+</div>
+
+
 ## Unannounced Project with Studio Rather Be Fishing 🎣
 
 
