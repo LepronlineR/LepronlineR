@@ -84,25 +84,21 @@ A .json file with configurations of a graph is provided or generated, and then s
 Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI.
 
 <div align="center">
-  <img src="images/terrain-ds.png" width=30% height=30%/>
-  <img src="images/pp5.gif" width=35% height=30%/>
-  <img src="images/terrain-fractal.png" width=30% height=30%/>
+  <img src="images/terrain.gif"/>
+  <img src="images/terrain-ds.png" width=40% height=40%/>
+  <img src="images/terrain-fractal.png" width=40% height=40%/>
 </div>
 
-The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm. Example on the left is generated with the diamond-square algorithm and the example on the right is generated with fractal noise.
+The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm. Example on the left is generated with the diamond-square algorithm and the example on the right is generated with fractal noise. Watch the video below for more.
 
-<div align="center">
-     <iframe width="560" height="315"
-     src="https://www.youtube.com/embed/jXcNmnmen_8" 
-     frameborder="1" 
-     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-     allowfullscreen></iframe>
-</div>
+[![Watch the video](images\terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
+
 
 ## Misc
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400"/>
 </div>
+
 # ❄️ Games
 
 ## Unannounced Project with Studio Rather Be Fishing
