@@ -118,13 +118,21 @@ The algorithm includes fractal noise, which includes custom parameters (frequenc
      <img src="images/bear2.png"/>
 </div>
 
-A real time strategy game, where you are able to control astronaut bears to gather resources in a melting planet. Before the planet melts, gather enough fish to recruit more bears in the planet and gather enough oil to leave the planet to rescue more bears in other planets. Travel to multiple planets in order to save more bears! This game is a participant in the Ludum dare game jam.
+A real time strategy game where you are able to control astronaut bears to gather resources in a melting planet. Before the planet melts, gather enough fish to recruit more bears in the planet and gather enough oil to leave the planet to rescue more bears in other planets. Travel to multiple planets in order to save more bears! This game is a participant in the Ludum dare game jam.
 
 <div align="center">
      <img src="images/bear3.gif" width=45% height=45%/>
      <img src="images/bear4.gif" width=45% height=45%/>
      <img src="images/bear5.gif" width=45% height=45%/>
      <img src="images/bear6.gif" width=45% height=45%/>
+</div>
+
+## [Friends Across Time ⌛](https://chemist02.itch.io/friends-across-time)
+
+A two player cooperative game where by sending items and controlling events in the past will change the future. Play this mind riveting time puzzle game with a friend next to you! This game is a participant in the RPI Game Jam.
+
+<div align="center">
+     <img src="images/friendsacrosstime.gif"/>
 </div>
 
 ## Unannounced Project with Studio Rather Be Fishing 🎣
