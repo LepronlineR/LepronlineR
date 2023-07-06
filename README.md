@@ -80,6 +80,16 @@ Project protocol is a website where protocols are displayed and explained throug
 </div>
 A .json file with configurations of a graph is provided or generated, and then sent to a simulator. The simulator runs and provides and output file of the graph as well as the timestamp of information of the protocol interactions, then outputs a .json to a graph visualizer. Then the results gets rendered into a .gif and displayed above. Certain graphs can be ordered or disordered, depending on the user configuration. 
 
+## Force Directed Graph with Visualizing in the Campfire
+The Campfire is a multidimensional visualization tool developed by the Rensselaer IDEA. In this project, a force directed graph is utilized in order to visualize data of neighbors. For instance, the amount of times two characters interacted with each other is recoreded as a weight of connection between the two characters. Then the graph applies a geometric constraint that forces the directed graph to an equilibrium. More explanation, implementation and results below.
+
+<img src="images/campfire-poster.png"/>
+<div align="center">
+  <img src="images/campfire1.jpg" width=45% height=45%/>
+  <img src="images/campfire2.jpg" width=45% height=45%/>
+  <img src="images/campfire3.jpg"/>
+</div>
+
 ## [Terrain Generator OpenGL](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
 Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI.
 
@@ -91,7 +101,7 @@ Generates a randomized terrain in OpenGL with tesselation. UI created and render
 
 The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm. Example on the left is generated with the diamond-square algorithm and the example on the right is generated with fractal noise. Watch the video below for more.
 
-[![Watch the video](images\terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
+[![Watch the video](images/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
 
 
 ## Misc
