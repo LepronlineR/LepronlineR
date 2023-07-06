@@ -83,23 +83,16 @@ A .json file with configurations of a graph is provided or generated, and then s
 ## Force Directed Graph with Visualizing in the Campfire 🌎
 The Campfire is a multidimensional visualization tool developed by the Rensselaer IDEA. In this project, a force directed graph is utilized in order to visualize data of neighbors. For instance, the amount of times two characters interacted with each other is recoreded as a weight of connection between the two characters. Then the graph applies a geometric constraint that forces the directed graph to an equilibrium. More explanation, implementation and results below.
 
-<img src="images/campfire-poster.png"/>
 <div align="center">
-  <img src="images/campfire1.jpg" width=45% height=45%/>
-  <img src="images/campfire2.jpg" width=45% height=45%/>
   <img src="images/campfire3.jpg"/>
 </div>
 
 ## [Terrain Generator OpenGL ⛰️](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
-Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI.
+Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI. The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm.
 
 <div align="center">
   <img src="images/terrain.gif"/>
-  <img src="images/terrain-ds.png" width=40% height=40%/>
-  <img src="images/terrain-fractal.png" width=40% height=40%/>
 </div>
-
-The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm. Example on the left is generated with the diamond-square algorithm and the example on the right is generated with fractal noise. Watch the video below for more.
 
 [![Watch the video](images/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
 
@@ -113,17 +106,12 @@ The algorithm includes fractal noise, which includes custom parameters (frequenc
 
 ## [Bear Rescue Force 🐻🚀](https://mishapozd.itch.io/bear-space-force)
 
-<div align="center">
-     <img src="images/bear1.png"/>
-     <img src="images/bear2.png"/>
-</div>
+
 
 A real time strategy game where you are able to control astronaut bears to gather resources in a melting planet. Before the planet melts, gather enough fish to recruit more bears in the planet and gather enough oil to leave the planet to rescue more bears in other planets. Travel to multiple planets in order to save more bears! This game is a participant in the Ludum dare game jam.
 
 <div align="center">
-     <img src="images/bear3.gif" width=45% height=45%/>
      <img src="images/bear4.gif" width=45% height=45%/>
-     <img src="images/bear5.gif" width=45% height=45%/>
      <img src="images/bear6.gif" width=45% height=45%/>
 </div>
 
@@ -139,31 +127,22 @@ A two player cooperative game where by sending items and controlling events in t
 
 ## [Astral Chart 🔫🚀](https://corppet.itch.io/astral-chart)
 
-<div align="center">
-     <img src="images/astralchart1.png"/>
-     <img src="images/astralchart2.png"/>
-     <img src="images/astralchartstart.gif"/>
-</div>
-
 A third person action adventure where the player is a mercenary ship taking missions through the galaxy. There are countless options of missions, dialogue, interactions between crewmates as well as a collage of weapons to choose from.
 
-<img src="images/astralchart1.gif"/>
-<img src="images/astralchart2.gif"/>
+<div align="center">
+     <img src="images/astralchart1.gif" width=45% height=45%/>
+     <img src="images/astralchart2.gif" width=45% height=45%/>
+</div>
+
 
 ## [Inflection 📖😮](https://corppet.itch.io/astral-chart)
 
-<div align="center">
-     <img src="images/inflectionstart.gif"/>
-</div>
-
 A first person mystery game where the player has to investigate a death of a person that he is convicted the murder of. The game utilizes microsoft voice detection in order for the player to ask questions to the witness and a machine learning algorithm in order to process the voice and determine the inflection of the voice, determining the resulting response. 
 
-In this instance, the player needs to find out the killer, and gets a small hint about what happened from a NPC about a key. The player finds the key and gives it to the NPC, which unlocks more of the mystery.
-
 <div align="center">
-     <img src="images/inflection0.gif"/>
-     <img src="images/inflection1.gif"/>
-     <img src="images/inflection2.gif"/>
+     <img src="images/inflectionstart.gif" width=30% height=30%/>
+     <img src="images/inflection1.gif" width=30% height=30%/>
+     <img src="images/inflection2.gif" width=30% height=30%/>
 </div>
 
 
