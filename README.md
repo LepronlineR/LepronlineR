@@ -66,7 +66,6 @@ Experience in:
 - 🚲 Cycling
 - 🎲 Game Jams [ check my itch page/games ]
 - 🎮 Video Games
-- 🎯 Collegiate Esports Player
 - 🃏 Magic The Gathering [ [Recent Tournament Placing](https://www.mtggoldfish.com/deck/5681347#paper) ]
 
 # 🎨 Projects
