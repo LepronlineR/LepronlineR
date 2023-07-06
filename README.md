@@ -71,7 +71,7 @@ Experience in:
 
 # 🎨 Projects
 
-## [Project Protocol](https://github.com/MattLMerritt/protocol-protocol)
+## [Project Protocol 🔌](https://github.com/MattLMerritt/protocol-protocol)
 Project protocol is a website where protocols are displayed and explained through documentation and simulations.  
 <div align="center">
   <img src="images/pp4.gif" width=25% height=25%/>
@@ -80,7 +80,7 @@ Project protocol is a website where protocols are displayed and explained throug
 </div>
 A .json file with configurations of a graph is provided or generated, and then sent to a simulator. The simulator runs and provides and output file of the graph as well as the timestamp of information of the protocol interactions, then outputs a .json to a graph visualizer. Then the results gets rendered into a .gif and displayed above. Certain graphs can be ordered or disordered, depending on the user configuration. 
 
-## Force Directed Graph with Visualizing in the Campfire
+## Force Directed Graph with Visualizing in the Campfire 🌎
 The Campfire is a multidimensional visualization tool developed by the Rensselaer IDEA. In this project, a force directed graph is utilized in order to visualize data of neighbors. For instance, the amount of times two characters interacted with each other is recoreded as a weight of connection between the two characters. Then the graph applies a geometric constraint that forces the directed graph to an equilibrium. More explanation, implementation and results below.
 
 <img src="images/campfire-poster.png"/>
@@ -90,7 +90,7 @@ The Campfire is a multidimensional visualization tool developed by the Rensselae
   <img src="images/campfire3.jpg"/>
 </div>
 
-## [Terrain Generator OpenGL](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
+## [Terrain Generator OpenGL ⛰️](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
 Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI.
 
 <div align="center">
@@ -111,10 +111,23 @@ The algorithm includes fractal noise, which includes custom parameters (frequenc
 
 # ❄️ Games
 
-## Unannounced Project with Studio Rather Be Fishing
+## [Bear Rescue Force 🐻🚀](https://mishapozd.itch.io/bear-space-force)
 
+<div align="center">
+     <img src="images/bear1.png"/>
+     <img src="images/bear2.png"/>
+</div>
 
-##
+A real time strategy game, where you are able to control astronaut bears to gather resources in a melting planet. Before the planet melts, gather enough fish to recruit more bears in the planet and gather enough oil to leave the planet to rescue more bears in other planets. Travel to multiple planets in order to save more bears! This game is a participant in the Ludum dare game jam.
+
+<div align="center">
+     <img src="images/bear3.gif" width=45% height=45%/>
+     <img src="images/bear4.gif" width=45% height=45%/>
+     <img src="images/bear5.gif" width=45% height=45%/>
+     <img src="images/bear6.gif" width=45% height=45%/>
+</div>
+
+## Unannounced Project with Studio Rather Be Fishing 🎣
 
 
 
