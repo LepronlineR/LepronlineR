@@ -65,7 +65,7 @@ Experience in:
 - 🎸Guitar [ Gear: Yamaha PAC112V Pacifica Red, Focusrite Scarlett solo, FL studio, no pedals ]
 - 🚲 Cycling
 - 🎲 Game Jams [ check my itch page/games ]
-- 🎮 Video Games [ [Steam](https://steamcommunity.com/id/Lelelepro/) ]
+- 🎮 Video Games
 - 🎯 Collegiate Esports Player
 - 🃏 Magic The Gathering [ [Recent Tournament Placing](https://www.mtggoldfish.com/deck/5681347#paper) ]
 
@@ -126,6 +126,8 @@ A real time strategy game where you are able to control astronaut bears to gathe
      <img src="images/bear5.gif" width=45% height=45%/>
      <img src="images/bear6.gif" width=45% height=45%/>
 </div>
+
+## [Pong Champs 🏓](https://puglic.itch.io/pongchamps)
 
 ## [Friends Across Time ⌛](https://chemist02.itch.io/friends-across-time)
 
