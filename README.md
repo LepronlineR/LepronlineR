@@ -69,12 +69,44 @@ Experience in:
 - 🎯 Collegiate Esports Player
 - 🃏 Magic The Gathering [ [Recent Tournament Placing](https://www.mtggoldfish.com/deck/5681347#paper) ]
 
-### Projects
+### 🎨 Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400)
+#### [Project Protocol](https://github.com/MattLMerritt/protocol-protocol)
+Project protocol is a website where protocols are displayed and explained through documentation and simulations.  
+<div align="center">
+  <img src="images/pp4.gif" width=25%/>
+  <img src="images/pp5.gif" width=25%/>
+  <img src="images/pp3.gif" width=25%/>
+</div>
+A .json file with configurations of a graph is provided or generated, and then sent to a simulator. The simulator runs and provides and output file of the graph as well as the timestamp of information of the protocol interactions, then outputs a .json to a graph visualizer. Then the results gets rendered into a .gif and displayed above. Certain graphs can be ordered or disordered, depending on the user configuration. 
 
-### Games
+#### 
 
+#### [Terrain Generator OpenGL](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
+Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI.
+
+<div align="center">
+  <img src="images/terrain-ds.png" width=30%/>
+  <img src="images/pp5.gif" width=35%/>
+  <img src="images/terrain-fractal.png" width=30%/>
+</div>
+
+The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm. Example on the left is generated with the diamond-square algorithm and the example on the right is generated with fractal noise.
+
+<div align="center">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/jXcNmnmen_8" frameborder="1" allowfullscreen></iframe>
+</div>
+
+###
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400"/>
+</div>
+### ❄️ Games
+
+#### Unannounced Project with Studio Rather Be Fishing
+
+
+#### 
 
 
 
