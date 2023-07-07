@@ -73,9 +73,9 @@ Experience in:
 ## [Project Protocol 🔌](https://github.com/MattLMerritt/protocol-protocol)
 Project protocol is a website where protocols are displayed and explained through documentation and simulations.  
 <div align="center">
-  <img src="images/pp4.gif" width=25% height=25%/>
-  <img src="images/pp5.gif" width=25% height=25%/>
-  <img src="images/pp3.gif" width=25% height=25%/>
+  <img src="images/projects/project-protocol-1.gif" width=25% height=25%/>
+  <img src="images/projects/project-protocol-2.gif" width=25% height=25%/>
+  <img src="images/projects/project-protocol-3.gif" width=25% height=25%/>
 </div>
 A .json file with configurations of a graph is provided or generated, and then sent to a simulator. The simulator runs and provides and output file of the graph as well as the timestamp of information of the protocol interactions, then outputs a .json to a graph visualizer. Then the results gets rendered into a .gif and displayed above. Certain graphs can be ordered or disordered, depending on the user configuration. 
 
@@ -83,17 +83,17 @@ A .json file with configurations of a graph is provided or generated, and then s
 The Campfire is a multidimensional visualization tool developed by the Rensselaer IDEA. In this project, a force directed graph is utilized in order to visualize data of neighbors. For instance, the amount of times two characters interacted with each other is recoreded as a weight of connection between the two characters. Then the graph applies a geometric constraint that forces the directed graph to an equilibrium. More explanation, implementation and results below.
 
 <div align="center">
-  <img src="images/campfire3.jpg"/>
+  <img src="images/projects/campfire.jpg"/>
 </div>
 
 ## [Terrain Generator OpenGL ⛰️](https://github.com/LepronlineR/Terrain-Generator-OpenGL)
 Generates a randomized terrain in OpenGL with tesselation. UI created and rendered with ImGUI. The algorithm includes fractal noise, which includes custom parameters (frequency, octaves, lacunarity and persistence), as well as the Diamond-Square algorithm.
 
 <div align="center">
-  <img src="images/terrain.gif"/>
+  <img src="images/projects/terrain.gif"/>
 </div>
 
-[![Watch the video](images/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
+[![Watch the video](images/projects/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
 
 
 ## Misc
@@ -110,14 +110,14 @@ Generates a randomized terrain in OpenGL with tesselation. UI created and render
 A real time strategy game where you are able to control astronaut bears to gather resources in a melting planet. Before the planet melts, gather enough fish to recruit more bears in the planet and gather enough oil to leave the planet to rescue more bears in other planets. Travel to multiple planets in order to save more bears! This game is a participant in the Ludum dare game jam.
 
 <div align="center">
-     <img src="images/bear4.gif" width=45% height=45%/>
-     <img src="images/bear6.gif" width=45% height=45%/>
+     <img src="images/games/bear-rescue-force-1.gif" width=45% height=45%/>
+     <img src="images/games/bear-rescue-force-2.gif" width=45% height=45%/>
 </div>
 
 ## [Pong Champs 🏓](https://puglic.itch.io/pongchamps)
 
 <div align="center">
-     <img src="images/pongchamps.gif"/>
+     <img src="images/games/pongchamps.gif"/>
 </div>
 
 A two player competitive game where both players control a omnidirectional ship that can shoot and parry a tennis ball across to hit the other player. The landscape of the game changes as the player gains an advantage. This game is developed for the RPI Arcade Game Jam and is playable in the RPI Game Development Club Arcade Machine.
@@ -127,7 +127,7 @@ A two player competitive game where both players control a omnidirectional ship 
 A two player cooperative game where by sending items and controlling events in the past will change the future. Play this mind riveting time puzzle game with a friend next to you! This game is a participant in the RPI Game Jam.
 
 <div align="center">
-     <img src="images/friendsacrosstime.gif"/>
+     <img src="images/games/friendsacrosstime.gif"/>
 </div>
 
 ## [Astral Chart 🔫🚀](https://corppet.itch.io/astral-chart)
@@ -135,8 +135,8 @@ A two player cooperative game where by sending items and controlling events in t
 A third person action adventure where the player is a mercenary ship taking missions through the galaxy. There are countless options of missions, dialogue, interactions between crewmates as well as a collage of weapons to choose from.
 
 <div align="center">
-     <img src="images/astralchart1.gif" width=45% height=45%/>
-     <img src="images/astralchart2.gif" width=45% height=45%/>
+     <img src="images/games/astralchart1.gif" width=45% height=45%/>
+     <img src="images/games/astralchart2.gif" width=45% height=45%/>
 </div>
 
 
@@ -145,9 +145,8 @@ A third person action adventure where the player is a mercenary ship taking miss
 A first person mystery game where the player has to investigate a death of a person that he is convicted the murder of. The game utilizes microsoft voice detection in order for the player to ask questions to the witness and a machine learning algorithm in order to process the voice and determine the inflection of the voice, determining the resulting response. 
 
 <div align="center">
-     <img src="images/inflectionstart.gif" width=30% height=30%/>
-     <img src="images/inflection1.gif" width=30% height=30%/>
-     <img src="images/inflection2.gif" width=30% height=30%/>
+     <img src="images/games/inflection1.gif" width=45% height=45%/>
+     <img src="images/games/inflection2.gif" width=45% height=45%/>
 </div>
 
 
