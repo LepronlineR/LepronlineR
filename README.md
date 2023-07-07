@@ -116,11 +116,11 @@ A real time strategy game where you are able to control astronaut bears to gathe
 
 ## [Pong Champs 🏓](https://puglic.itch.io/pongchamps)
 
+A two player competitive game where both players control a omnidirectional ship that can shoot and parry a tennis ball across to hit the other player. The landscape of the game changes as the player gains an advantage. This game is developed for the RPI Arcade Game Jam and is playable in the RPI Game Development Club Arcade Machine.
+
 <div align="center">
      <img src="images/games/pongchamps.gif"/>
 </div>
-
-A two player competitive game where both players control a omnidirectional ship that can shoot and parry a tennis ball across to hit the other player. The landscape of the game changes as the player gains an advantage. This game is developed for the RPI Arcade Game Jam and is playable in the RPI Game Development Club Arcade Machine.
 
 ## [Friends Across Time ⌛](https://chemist02.itch.io/friends-across-time)
 
