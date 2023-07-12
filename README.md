@@ -12,6 +12,7 @@
 Hello stranger in the internet! My name is Zhi Zheng, I graduated from Rensselaer Polytechnic Institute with a bachelors degree in Games, Simulation, Arts & Sciences and Computer Science. Currently working on a master's degree in Computer Science at Rensselaer Polytechnic Institute. My research topic is sentiment and motivation analysis.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/LepronlineR)
+[![wakatime](https://wakatime.com/badge/user/199e4697-bdc5-4ca9-8a4b-1714ed9693fc.svg)](https://wakatime.com/@199e4697-bdc5-4ca9-8a4b-1714ed9693fc)
 
 Experience in:
 <p align="center">
@@ -59,6 +60,10 @@ Experience in:
      />
 </p>
 
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400"/>
+</div>
+
 # 🪁 Hobbies
 
 - 🧗 Bouldering [ [Vital Gym Brooklyn](https://www.vitalclimbinggym.com/brooklyn) ]
@@ -94,12 +99,6 @@ Generates a randomized terrain in OpenGL with tesselation. UI created and render
 </div>
 
 [![Watch the video](images/projects/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
-
-
-## Misc
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400"/>
-</div>
 
 # ❄️ Games
 
