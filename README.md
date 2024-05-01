@@ -67,7 +67,7 @@ Experience in:
 # 🪁 Hobbies
 
 - 🧗 Bouldering [ [Vital Gym Brooklyn](https://www.vitalclimbinggym.com/brooklyn) ]
-- 🎸Guitar [ Gear: Yamaha PAC112V Pacifica Red, Focusrite Scarlett solo, FL studio, no pedals ]
+- 🎸Guitar [ Gear: Yamaha PAC112V Pacifica Red]
 - 🚲 Cycling
 - 🎲 Game Jams [ check my itch page/games ]
 - 🎮 Video Games
