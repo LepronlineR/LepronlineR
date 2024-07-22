@@ -9,7 +9,7 @@
 
 # 🀄 Me
 
-Hello stranger in the internet! My name is Zhi Zheng, I graduated from Rensselaer Polytechnic Institute with a bachelors degree in Games, Simulation, Arts & Sciences and Computer Science. Currently working on a master's degree in Computer Science at Rensselaer Polytechnic Institute. My research topic is sentiment and motivation analysis.
+Hello stranger in the internet! My name is Zhi Zheng, I graduated from Rensselaer Polytechnic Institute with a M.S. in Computer Science and a B.S. in Games, Simulation, Arts & Sciences and Computer Science.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/LepronlineR)
 [![wakatime](https://wakatime.com/badge/user/199e4697-bdc5-4ca9-8a4b-1714ed9693fc.svg)](https://wakatime.com/@199e4697-bdc5-4ca9-8a4b-1714ed9693fc)
