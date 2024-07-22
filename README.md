@@ -1,7 +1,7 @@
 <h1 align="center"><img src="images/hello-there.gif" width="50"/> Welcome to my page 👋 </h1>
 
 <h4 align="center"> 
-     🏮 <a href="https://lepronliner.github.io/portfolio/"> My Website 
+     🏮 <a href="https://lepronliner.github.io"> My Website 
      🏮 <a href="https://www.linkedin.com/in/zhizheng1/"> My LinkedIn 
      🏮 <a href="https://fzsav.itch.io"> My Itch.io 
      🏮
