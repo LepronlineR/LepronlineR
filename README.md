@@ -65,14 +65,11 @@ Experience in:
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepronliner&langs_count=9&layout=donut&card_width=400"/>
 </div>
 
-# 🪁 Hobbies
+# Education
 
-- 🧗 Bouldering [ [Vital Gym Brooklyn](https://www.vitalclimbinggym.com/brooklyn) ]
-- 🎸Guitar [ Gear: Yamaha PAC112V Pacifica Red]
-- 🚲 Cycling
-- 🎲 Game Jams [ check my itch page/games ]
-- 🎮 Video Games
-- 🃏 Magic The Gathering [ [Recent Tournament Placing](https://www.mtggoldfish.com/deck/5681347#paper) ]
+Rensselaer Polytechnic Institute ------------ (Aug. 2020 - May 2024)
+M.S. in Computer Science
+B.S. in Computer Science and Games, Simulation, Arts and Sciences (GSAS)
 
 # 🎨 Projects
 
@@ -100,3 +97,12 @@ Generates a randomized terrain in OpenGL with tesselation. UI created and render
 </div>
 
 [![Watch the video](images/projects/terrain.png)](https://www.youtube.com/watch?v=jXcNmnmen_8)
+
+# 🪁 Hobbies
+
+- 🧗 Bouldering [ [Vital Gym Brooklyn](https://www.vitalclimbinggym.com/brooklyn) ]
+- 🎸Guitar [ Gear: Yamaha PAC112V Pacifica Red]
+- 🚲 Cycling
+- 🎲 Game Jams [ check my itch page/games ]
+- 🎮 Video Games
+- 🃏 Magic The Gathering [ [Recent Tournament Placing](https://www.mtggoldfish.com/deck/5681347#paper) ]
