@@ -68,8 +68,9 @@ Experience in:
 # Education
 
 Rensselaer Polytechnic Institute ------------ (Aug. 2020 - May 2024)
-M.S. in Computer Science
-B.S. in Computer Science and Games, Simulation, Arts and Sciences (GSAS)
+> M.S. in Computer Science
+
+> B.S. in Computer Science and Games, Simulation, Arts and Sciences (GSAS)
 
 # 🎨 Projects
 
